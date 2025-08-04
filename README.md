@@ -109,11 +109,9 @@ server.port=8082
 <img width="1458" height="582" alt="dboutput" src="https://github.com/user-attachments/assets/3fb4f609-239f-40f4-8d09-bf99160633c7" />
 
 ---
-
-
-
----
 ## 👩‍💻 Contact
 **Name:** Prerana Anand Nalawade  
 **Email:** prerananalawade5@gmail.com  
 **GitHub:** https://github.com/PreranaNalawade  
+
+---
