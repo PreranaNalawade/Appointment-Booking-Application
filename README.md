@@ -86,24 +86,29 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 server.port=8082
 ```
 ---
-##⚙️ Build and Run
+## ⚙️ Build and Run
 
-**🧪 Backend (Spring Boot)**
+** 🧪 Backend (Spring Boot)**
 -run the backend using run application as spring boot pp
 
-**🌐 Frontend**
+** 🌐 Frontend**
   - use python server to run frontend app
     python -m http.server 5500
 
 ---
 
-##📸 Sample UI
-<img width="631" height="247" alt="image" src="output.png" />
+## 📸 Sample UI
+
+<img width="805" height="905" alt="output" src="https://github.com/user-attachments/assets/b5144385-d4f7-4c8a-8e39-f49266f27405" />
 
 
 ---
 
-##📅 Sample Database Output
+## 📅 Sample Database Output
+
+<img width="1458" height="582" alt="dboutput" src="https://github.com/user-attachments/assets/3fb4f609-239f-40f4-8d09-bf99160633c7" />
+
+---
 
 
 
