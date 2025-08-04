@@ -98,4 +98,17 @@ server.port=8082
 ---
 
 ##📸 Sample UI
-<img width="631" height="247" alt="image" src="C:\Users\Rajnandini\Pictures\output.png" />
+<img width="631" height="247" alt="image" src="output.png" />
+
+
+---
+
+##📅 Sample Database Output
+
+
+
+---
+## 👩‍💻 Contact
+**Name:** Prerana Anand Nalawade  
+**Email:** prerananalawade5@gmail.com  
+**GitHub:** https://github.com/PreranaNalawade  
